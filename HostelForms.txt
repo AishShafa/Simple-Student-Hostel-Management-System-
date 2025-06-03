@@ -1,0 +1,101 @@
+Student ID,Name,Phone Number,Hostel Room
+TP082966,Ringo Skelhorn,742-898-9383,Master Room
+TP098110,Loraine Eltone,333-172-3370,4 Person Shared Room
+TP033025,Clark Pallatina,954-326-3016,2 Person Shared Room
+TP043351,Annabelle Meredith,790-640-1695,2 Person Shared Room
+TP043196,Maxwell Seago,634-333-5790,2 Person Shared Room
+TP029411,Corilla O'Siaghail,933-592-9501,Master Room
+TP051364,Ofilia Kohler,162-601-8950,2 Person Shared Room
+TP079766,Elisha Gioani,187-804-4186,4 Person Shared Room
+TP063483,Kimberley Leipoldt,816-237-2689,Small Room
+TP080722,Jerrilee Aspenlon,248-908-0130,Medium Room
+TP009169,Emmerich Johnsee,336-990-3215,Medium Room
+TP002210,Jarrod Withur,839-641-3812,4 Person Shared Room
+TP097958,Bess Gossage,158-361-3283,Master Room
+TP063472,Randie Caldaro,439-180-4961,Small Room
+TP059262,Dru Welbrock,202-381-1415,4 Person Shared Room
+TP050307,Andra Walshe,341-886-1289,Medium Room
+TP038418,Melitta Greystoke,652-497-1069,Small Room
+TP086187,Melodee Logg,757-916-7155,Medium Room
+TP080729,Rasia Grimsell,390-157-1854,Small Room
+TP043253,Shir Boal,760-827-4072,Medium Room
+TP003248,Bard Serrels,532-273-1182,Small Room
+TP081888,Kandy Fronks,334-935-1087,Master Room
+TP092600,Brita Prescott,167-484-8546,2 Person Shared Room
+TP082146,Heida Loveland,385-844-6113,Small Room
+TP031202,Krishna Tattersdill,427-329-7510,Medium Room
+TP031646,Lyle Ortiga,726-477-0953,Small Room
+TP018375,Natal Jedrachowicz,730-903-5829,4 Person Shared Room
+TP063925,Gwenny Tuckwood,664-912-1167,Medium Room
+TP045182,Wendi Haysey,222-846-5376,Master Room
+TP016867,Benyamin Dangerfield,484-109-3818,4 Person Shared Room
+TP044673,Paulie Cracoe,556-671-4682,Medium Room
+TP032781,Sorcha Jeppe,172-554-7707,4 Person Shared Room
+TP072019,Hobie Tapner,805-660-7956,Small Room
+TP022675,Rees Szymanek,447-169-3423,4 Person Shared Room
+TP091175,Giordano Fuggle,958-252-1396,Medium Room
+TP077142,Gael Mulberry,990-303-2983,4 Person Shared Room
+TP026125,Melli McMearty,262-540-1290,2 Person Shared Room
+TP034707,Ingaberg Gierck,452-196-6979,Small Room
+TP065872,Horatio Legrice,324-576-1312,Medium Room
+TP064794,Baillie Idney,274-772-5108,Medium Room
+TP067914,Harlen Dunridge,181-823-7998,Master Room
+TP075928,Barris Wheelwright,382-324-5678,Small Room
+TP017134,Vikki MacVay,883-284-7310,2 Person Shared Room
+TP000804,Graham Gavozzi,615-397-2531,Medium Room
+TP005318,Kelcey Mewburn,937-677-0466,Medium Room
+TP073816,Hermine Astlett,431-482-5187,2 Person Shared Room
+TP065026,Mathias Mertin,569-621-2970,4 Person Shared Room
+TP017096,Archer Newey,282-882-9650,4 Person Shared Room
+TP072628,Amata Cannon,669-586-2174,Medium Room
+TP064930,Abigail Macewan,314-360-0116,Master Room
+TP000962,Nikaniki Rawstorne,440-530-7788,2 Person Shared Room
+TP085317,Corinne McCorrie,796-876-9553,Small Room
+TP039723,Enrico Lanfer,623-407-3538,4 Person Shared Room
+TP046344,Rockwell Bythell,989-134-2985,Master Room
+TP026055,Bobine Dymott,130-772-4169,2 Person Shared Room
+TP055115,Jermayne Rosenfeld,933-661-4165,2 Person Shared Room
+TP018803,Janaye Tempest,681-610-7651,4 Person Shared Room
+TP010428,Kleon Lanfere,179-328-1456,Master Room
+TP026374,Ryun Brastead,963-586-6593,Medium Room
+TP024780,Farley Kinny,135-714-7394,4 Person Shared Room
+TP024973,Allina Tromans,743-800-7402,Master Room
+TP080890,Kylynn Feldbau,262-168-4188,Small Room
+TP047091,Fanni Wimbush,879-581-9378,Master Room
+TP052319,Jerry Riddett,357-313-1082,2 Person Shared Room
+TP008163,Emalia Glasspoole,796-217-8130,Master Room
+TP002129,Athene Guinn,214-558-9098,4 Person Shared Room
+TP002836,Crosby Filipson,536-147-8164,Medium Room
+TP027856,Goober Zanetto,358-356-4483,Medium Room
+TP013173,Brew Grabham,921-972-5879,Small Room
+TP097979,Melly Aimer,339-491-9932,4 Person Shared Room
+TP049770,Leda Boggis,170-613-7166,2 Person Shared Room
+TP033579,Paco McElvogue,468-997-6425,Master Room
+TP022292,Violante Bruno,903-380-2062,Master Room
+TP031497,Sher Napoli,715-320-6694,Medium Room
+TP098133,Gennifer Rabson,415-792-3220,2 Person Shared Room
+TP051711,Shaylynn Henbury,449-637-4225,Master Room
+TP004415,Aura Bowyer,411-553-0226,Small Room
+TP064813,Nevile Slucock,243-396-6647,Medium Room
+TP066534,Armstrong Bezley,701-335-8032,Medium Room
+TP018370,Barbabas Alexsandrev,599-540-3451,2 Person Shared Room
+TP018987,Anna-diane Dunkley,142-972-2834,2 Person Shared Room
+TP048846,Ozzie Charrett,738-486-3292,4 Person Shared Room
+TP043194,Ethelyn Collyear,473-534-4251,Small Room
+TP078432,Brockie Feighney,996-455-6755,Small Room
+TP082476,Halimeda Satchel,451-740-8334,2 Person Shared Room
+TP050502,Loise Bravington,950-391-4120,2 Person Shared Room
+TP057939,Constantia Morforth,243-760-8758,Small Room
+TP052495,Charisse Stredder,174-934-1401,Medium Room
+TP011604,Roobbie Marrows,145-662-1025,Medium Room
+TP062803,Dacie Fisher,707-735-3268,4 Person Shared Room
+TP073906,Harley Wattam,168-818-8728,4 Person Shared Room
+TP086876,Fergus Guisot,123-910-4537,Small Room
+TP028137,Anthony MacConnell,276-862-2467,Master Room
+TP047055,Roxi Pletts,130-131-4181,Master Room
+TP087435,Kermie Dahlman,264-657-7673,Master Room
+TP039432,Ellerey Raeburn,387-274-3608,Master Room
+TP028830,Roxi Francklin,291-380-8912,2 Person Shared Room
+TP004166,Annmaria Angric,467-964-6514,Master Room
+TP061359,Rosa Briand,910-645-2456,Master Room
+TP094235,Adam Couth,738-700-9646,Medium Room
