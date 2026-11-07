@@ -1,12 +1,9 @@
 # Student Hostel Management System
-
 > Created in 2023
 
 ## Overview
 
 The Student Hostel Management System is a simple software solution designed to automate operations in a student hostel. It aims to simplify management tasks, enhance overall efficiency, and improve the experience for both administrators and students.
-
-## Technology
 
 The system is developed using **Java** and **Swing** for its graphical user interface, providing a straightforward way to interact with the application.
 
